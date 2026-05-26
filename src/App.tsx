@@ -1,7 +1,9 @@
+import { RemoteControl } from "./components/RemoteControl";
+
 export function App() {
 	return (
 		<>
-			<h1>Olá</h1>
+			<RemoteControl />
 		</>
 	);
 }
